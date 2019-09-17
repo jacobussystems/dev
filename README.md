@@ -1,5 +1,5 @@
 # dev
 Development repo, for experiments.
 
-[[File:https://raw.githubusercontent.com/wiki/jacobussystems/ArdJack/bridge.png|Bridge]]
+[[File:https://github.com/jacobussystems/ArdJack/wiki/bridge.png|Bridge]]
 
